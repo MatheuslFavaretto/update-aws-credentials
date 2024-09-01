@@ -1,12 +1,28 @@
 # Problem
 
-In my daily work routine, while performing operations on AWS, I often need to update my credentials multiple times throughout the day.
+In my daily work routine, while managing operations on AWS, I often need to update my credentials multiple times throughout the day. This repetitive task can be time-consuming and prone to errors.
 
 # Solution
 
-Below is a simple script that automatically grabs the content from the clipboard and updates the AWS credentials file.
+Below is a simple script that automatically grabs the content from the clipboard and updates the AWS credentials file. By running **up-awscred**, this process is streamlined, making it more efficient and less error-prone.
 
 # Requirements
 
 - Bash
 - xclip
+
+# Installation
+
+Run the command below to download the setup file and execute it, simplifying the installation process:
+
+\`\`\`bash
+curl https://raw.githubusercontent.com/MatheuslFavaretto/update-aws-credentials/main/setup.sh?token=GHSAT0AAAAAACP2HWY5AGPQ47GTEYY35SNWZWUYPNQ | bash
+\`\`\`
+
+# Usage
+
+After installation, simply run the following command:
+
+\`\`\`bash
+up-awscred
+\`\`\`
