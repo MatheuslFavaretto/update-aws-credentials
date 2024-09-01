@@ -16,7 +16,7 @@ Below is a simple script that automatically grabs the content from the clipboard
 Run the command below to download the setup file and execute it, simplifying the installation process:
 
 ```bash
-curl https://raw.githubusercontent.com/MatheuslFavaretto/update-aws-credentials/main/setup.sh?token=GHSAT0AAAAAACP2HWY5AGPQ47GTEYY35SNWZWUYPNQ | bash
+curl https://raw.githubusercontent.com/MatheuslFavaretto/update-aws-credentials/main/setup.sh?token=GHSAT0AAAAAACP2HWY5AGPQ47GTEYY35SNWZWUYPNQ](https://raw.githubusercontent.com/MatheuslFavaretto/update-aws-credentials/main/setup.sh?token=GHSAT0AAAAAACP2HWY5OYKAFJJ6K6UWK6Z4ZWUZCDQ | bash
 ```
 
 # Usage
