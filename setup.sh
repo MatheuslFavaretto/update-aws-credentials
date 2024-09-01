@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SCRIPT_NAME="up-awscred"
-SCRIPT_URL="https://raw.githubusercontent.com/MatheuslFavaretto/update-aws-credentials/main/up-awscred.sh?token=GHSAT0AAAAAACP2HWY5YI3IDXSSWQH5DUZYZWUYX3A"
+SCRIPT_URL="https://raw.githubusercontent.com/MatheuslFavaretto/update-aws-credentials/main/up-awscred.sh?token=GHSAT0AAAAAACP2HWY5AHT2OYLG4YQJU4EGZWUYZLQ"
 DEST_DIR="/usr/local/bin"
 
 SHELL_NAME=$(basename "$SHELL")
