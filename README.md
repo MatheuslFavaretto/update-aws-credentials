@@ -1,10 +1,10 @@
 # Problem
 
-In my daily work routine, while managing operations on AWS, I often need to update my credentials multiple times throughout the day. This repetitive task can be time-consuming and prone to errors.
+In my daily work routine, while managing operations on AWS, I often need to update my credentials multiple times throughout the day.
 
 # Solution
 
-Below is a simple script that automatically grabs the content from the clipboard and updates the AWS credentials file. By running **up-awscred**, this process is streamlined, making it more efficient and less error-prone.
+Below is a simple script that automatically grabs the content from the clipboard and updates the AWS credentials file. By running **up-awscred**.
 
 # Requirements
 
