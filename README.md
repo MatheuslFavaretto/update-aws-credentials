@@ -22,7 +22,6 @@ curl https://raw.githubusercontent.com/MatheuslFavaretto/update-aws-credentials/
 # Usage
 
 After installation, simply run the following command:
-https://raw.githubusercontent.com/MatheuslFavaretto/update-aws-credentials/main/setup.sh?token=GHSAT0AAAAAACP2HWY5WSZNHCQRSOXNOAIQZWUZDEQ
 ```bash
 up-awscred
 ```
